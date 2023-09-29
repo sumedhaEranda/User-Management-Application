@@ -51,7 +51,7 @@ PM> dotnet ef database update
 ### Following steps
 ![Alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/120088434/271474321-4a57e390-528c-4d8e-8eb6-367e7a4a273e.png)
 
-![Annotation 2023-09-29 101603](https://github.com/sumedhaEranda/Building-a-Task-Management-Application./assets/120088434/2617b9b9-30a6-49d8-b3f2-37c033033791)
+![Annotation 2023-09-29 101603](https://github.com/sumedhaEranda/User-Management-Application/assets/120088434/33f63557-f7f6-4580-bf2f-5da190a0fc66)
 
 ## Desktop View
 ![DesktopView](https://github.com/sumedhaEranda/Building-a-Task-Management-Application./assets/120088434/6be7fae8-197f-4aad-afcf-0c80a81bcbc7)
