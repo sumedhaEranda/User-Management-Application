@@ -1,0 +1,13 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/user/dashboard",
+        "icon": "bx bx-home-alt"
+    },
+    {
+        "display_name": "User List",
+        "route": "/user/users",
+        "icon": "bx bx-package"
+    }
+    
+]
