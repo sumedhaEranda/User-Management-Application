@@ -39,7 +39,8 @@ PM> dotnet ef database update
 ```
 #### Can We After Run the WebApplicationBackend
 [Can you see a URL ] (https://localhost:7260/swagger/index.html
-![Annotation 2023-09-29 101603](https://github.com/sumedhaEranda/Building-a-Task-Management-Application./assets/120088434/60e02867-8b64-4f19-bc09-f07b7b5d3f02)
+
+![Annotation 2023-09-29 134848](https://github.com/sumedhaEranda/User-Management-Application/assets/120088434/caf50cc8-67c1-410a-a72a-3bd246286464)
 
 
 
@@ -54,9 +55,10 @@ PM> dotnet ef database update
 ![Annotation 2023-09-29 101603](https://github.com/sumedhaEranda/User-Management-Application/assets/120088434/33f63557-f7f6-4580-bf2f-5da190a0fc66)
 
 ## Desktop View
-![DesktopView](https://github.com/sumedhaEranda/Building-a-Task-Management-Application./assets/120088434/6be7fae8-197f-4aad-afcf-0c80a81bcbc7)
+![DesktopView](https://github.com/sumedhaEranda/User-Management-Application/assets/120088434/5294d668-aa36-434c-8f3f-ff64d8a6623e)
+
 
 ## Mobile View
-![MobileView](https://github.com/sumedhaEranda/Building-a-Task-Management-Application./assets/120088434/85c7730d-d24d-4f42-85ac-993c1d96a3a0)
+![MobileView](https://github.com/sumedhaEranda/User-Management-Application/assets/120088434/c0197b31-ca22-449c-8fd3-fdfd27bb2d09)
 
  
