@@ -61,5 +61,4 @@ PM> dotnet ef database update
 ## Mobile View
 ![MobileView](https://github.com/sumedhaEranda/User-Management-Application/assets/120088434/c0197b31-ca22-449c-8fd3-fdfd27bb2d09)
 
- # This web app url :-(http://usermangemnet.s3-website-us-east-1.amazonaws.com)
-Enjoy well
+
