@@ -42,7 +42,7 @@ PM> dotnet ef database update
 
 ![Annotation 2023-09-29 134848](https://github.com/sumedhaEranda/User-Management-Application/assets/120088434/caf50cc8-67c1-410a-a72a-3bd246286464)
 
-### Host URL
+### Hosted URL
 (https://sumeada-001-site1.itempurl.com/swagger/index.html)
 
 # 2.   How to Setup the Front-End in Your local Computer
